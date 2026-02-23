@@ -39,6 +39,8 @@
                     },
                     "configurations": {
                         "production": {
+                            "baseHref": "/demo-ng/",
+                            "deployUrl": "/demo-ng/",
                             "budgets": [
                                 {
                                     "type": "initial",
